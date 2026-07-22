@@ -10,7 +10,7 @@ body, html {
 }
 
 body {
-    /* ВСТАВЬТЕ ВАШУ ПРЯМУЮ ССЫЛКУ НА GIF ЗДЕСЬ */
+    /https://media1.tenor.com/m/lzwAcRPdchUAAAAd/motion-anima%C3%A7%C3%A3o.gif/
     background-image: url('https://media1.tenor.com/m/lzwAcRPdchUAAAAd/motion-anima%C3%A7%C3%A3o.gif');
     background-size: cover; /* Растягивает изображение, чтобы закрыть весь экран */
     background-position: center; /* Центрирует изображение */
