@@ -14,7 +14,7 @@
 *Эта панель обновляется сама каждый раз, когда я отправляю решения задач через расширение:*
 
 <p align="center">
-  <img src="https://vercel.app" alt="LeetCode Stats" />
+  <img src="https://vercel.app" alt="nort8" />
 </p>
 
 ---
